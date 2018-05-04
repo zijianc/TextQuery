@@ -19,7 +19,6 @@ using std::cin;
 using std::ifstream;
 using std::endl;
 
-/*
 int main(int argc, char **argv)
 {
 	TextQuery file = get_file(argc, argv);
@@ -32,11 +31,10 @@ int main(int argc, char **argv)
 		const QueryResult results = name.eval(file);
 		cout << "\nExcuting Query for: " << name << endl;
 
-		print(cout, results) << endl;  //print()º¯ÊýÔÚTextQuery.hÖÐÉùÃ÷
-
+		print(cout, results) << endl;  //print()å‡½æ•°åœ¨TextQuery.hä¸­å£°æ˜Ž
 	} while (true);
 	return 0;
 }
 
-*/
+
 
